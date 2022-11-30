@@ -1,0 +1,15 @@
+.header nav {
+  padding: 24px;
+}
+.header__menu > span {
+  display: block;
+  width: 26px;
+  height: 2px;
+  background-color: hsl(36deg, 100%, 99%);
+}
+.header__menu > span:not(:last-child) {
+  margin-bottom: 3px;
+}
+.header__links a {
+  font-size: 0.875rem;
+}/*# sourceMappingURL=header.css.map */
